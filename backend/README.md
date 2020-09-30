@@ -331,7 +331,7 @@ Example:
 
 ## Next, Start the Frontend
 
-[View the README.md within ./frontend for more details.](./frontend/README.md)
+[View the README.md within ./frontend for more details.](../frontend/README.md)
 
 
 ## Authors
