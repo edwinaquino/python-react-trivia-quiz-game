@@ -12,6 +12,18 @@ With this application you will be able to:
 4. Search for questions based on a text query string.
 5. Play the quiz game, randomizing either all questions or within a specific category. 
 
+![udacity-trivia](https://user-images.githubusercontent.com/30946443/94628375-adc89e00-0274-11eb-8c51-e982d6c3c6fd.jpg)
+
+### Install
+
+Option 1 - Download the zip file and unzip the file into your computer.
+
+Option 2 - Clone this repository. To clone, start a terminal and execute the following command:
+
+```bash
+git clone https://github.com/edwinaquino/python-react-trivia-quiz-game.git
+```
+
 ## Tasks
 
 There is a frontend and a backend stack. The backend will provide the model for the API while the frontend will provide the view of the application using React.
